@@ -9,6 +9,6 @@ SysAdmin enfocado en la gestión de infraestructuras y automatización.
 - **Entorno:** Trabajo principalmente sobre WSL2 y VSCode.
 
 ### Mi caja de herramientas:
-En el repositorio [**SysAdmin-Toolkit**](link) voy subiendo mis scripts, configuraciones y pruebas de laboratorio que me sirven en el día a día.
+En el repositorio [**SysAdmin-Toolkit**](https://github.com/carlostechit/SysAdmin-Toolkit) voy subiendo mis scripts, configuraciones y pruebas de laboratorio que me sirven en el día a día.
 
 No busco complicar las cosas, busco que funcionen de forma eficiente.
