@@ -6,7 +6,7 @@ Estudiante y entusiasta de la administración de sistemas y la ingeniería Cloud
 
 ### 🔬 Laboratorio en Marcha
 Actualmente estoy diseñando y documentando mi propia infraestructura desde cero en el repositorio principal:
-👉 [**SysAdmin-to-Cloud-Engineer**]([https://github.com/carlostechit/SysAdmin-to-Cloud-Engineer](https://github.com/carlostechit/home-lab-docs))
+👉 [**SysAdmin-to-Cloud-Engineer**](https://github.com/carlostechit/home-lab-docs)
 
 Aquí es donde aplico y documento mis prácticas mediante SOPs y Runbooks:
 * **Infraestructura Base:** Hyper-V, virtualización anidada y Proxmox VE.
