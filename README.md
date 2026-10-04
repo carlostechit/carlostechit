@@ -1,14 +1,25 @@
-# Hola, soy Carlos
+### Hola, soy Carlos 👋 | SysAdmin / Cloud Engineer (En formación)
 
-SysAdmin enfocado en la gestión de infraestructuras y automatización. 
+Estudiante y entusiasta de la administración de sistemas y la ingeniería Cloud. Creo firmemente que la mejor forma de aprender es ensuciándose las manos: montando laboratorios reales, documentando cada fallo y estructurando el proceso como si fuera entorno de producción.
 
-### Lo que manejo:
-- **Infraestructura:** Windows Server, Active Directory y VMware Workstation.
-- **Automatización:** Uso PowerShell y Bash para dejar de repetir tareas manuales.
-- **Contenedores:** Docker y Docker Compose para levantar servicios rápidamente.
-- **Entorno:** Trabajo principalmente sobre WSL2 y VSCode.
+---
 
-### Mi caja de herramientas:
-En el repositorio [**SysAdmin-Toolkit**](https://github.com/carlostechit/SysAdmin-Toolkit) voy subiendo mis scripts, configuraciones y pruebas de laboratorio que me sirven en el día a día.
+### 🔬 Laboratorio en Marcha
+Actualmente estoy diseñando y documentando mi propia infraestructura desde cero en el repositorio principal:
+👉 [**SysAdmin-to-Cloud-Engineer**]([https://github.com/carlostechit/SysAdmin-to-Cloud-Engineer](https://github.com/carlostechit/home-lab-docs))
 
-No busco complicar las cosas, busco que funcionen de forma eficiente.
+Aquí es donde aplico y documento mis prácticas mediante SOPs y Runbooks:
+* **Infraestructura Base:** Hyper-V, virtualización anidada y Proxmox VE.
+* **Sistemas y Redes:** Ubuntu Server, particionado y resolución de problemas de red.
+* **Automatización y Futuro:** Próximos pasos con Bash, Ansible, Terraform y contenedores.
+
+---
+
+### 🛠️ Herramientas con las que trasteo
+* **Sistemas Operativos:** Linux (Ubuntu/Debian), Windows Server.
+* **Virtualización:** Proxmox VE, Hyper-V, VMware Workstation.
+* **Control de Versiones y Entorno:** Git, GitHub, WSL2, VSCode, Bash CLI.
+
+---
+
+> *"Paso a paso, rompiendo cosas para aprender a arreglarlas y documentándolo todo por el camino."*
