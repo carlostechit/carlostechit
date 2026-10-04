@@ -22,4 +22,5 @@ Aquí es donde aplico y documento mis prácticas mediante SOPs y Runbooks:
 
 ---
 
+> [!NOTE]
 > *"Paso a paso, rompiendo cosas para aprender a arreglarlas y documentándolo todo por el camino."*
